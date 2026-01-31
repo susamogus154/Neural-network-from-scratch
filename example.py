@@ -1,4 +1,5 @@
 from main import *
+import numpy as np
 
 test_network = NeuralNet([
     Layer(3, 3, 'relu'),
